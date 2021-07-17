@@ -2,7 +2,7 @@
 
 ### Getting started
 
-To try out the heap based priority queue implementation, one could use the following line
+To try out the binary heap based priority queue implementation, do the following
 
 ```shell
 cat tinyPQ.txt | python3 priority_queue.py
